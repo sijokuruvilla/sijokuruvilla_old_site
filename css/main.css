@@ -732,11 +732,22 @@ textarea {
 .malayalam {
     font-family: Meera;
     font-size: 1.1rem;
+    font-weight: normal;
 }
 
 
-.malayalam h1 { font-size: 1.9rem; }
-.malayalam h2 { font-size: 1.5rem; }
+.malayalam h1 {
+    font-size: 1.9rem;
+}
+
+.malayalam h2 {
+    font-size: 1.5rem;
+}
+
+.malayalam h3 {
+    font-size: 1.5rem;
+    font-weight: normal;
+}
 
 *, *:before, *:after {
     -moz-box-sizing: border-box;
