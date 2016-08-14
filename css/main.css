@@ -724,6 +724,20 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+@font-face {
+        font-family: Meera;
+            src: url(/fonts/meera.ttf);
+        }
+
+.malayalam {
+    font-family: Meera;
+    font-size: 1.1rem;
+}
+
+
+.malayalam h1 { font-size: 1.9rem; }
+.malayalam h2 { font-size: 1.5rem; }
+
 *, *:before, *:after {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
