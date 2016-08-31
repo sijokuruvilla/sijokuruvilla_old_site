@@ -786,9 +786,12 @@ blockquote footer { text-align: right; }
   border-bottom: none;
 }
 
-.align-left {text-align: left; }
+.align-left { text-align: left; }
 .align-center { text-align: center; }
 .align-right { text-align: right; }
+
+.float-left { float: left; } 
+.float-right { float: right; }
 
 .lightblack { color: #444; }
 
